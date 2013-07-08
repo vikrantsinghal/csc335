@@ -1,0 +1,106 @@
+<class-diagram version="1.0.11" icons="true" automaticImage="JPEG" always-add-relationships="true" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="ConnectionThread" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/ConnectionThread.java" binary="false">    
+    <position height="-1" width="-1" x="186" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="Client.IncomingReader" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Client.java" binary="false">    
+    <position height="-1" width="-1" x="430" y="485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="Client.ExitListener" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Client.java" binary="false">    
+    <position height="-1" width="-1" x="658" y="536"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="Server" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Server.java" binary="false">    
+    <position height="-1" width="-1" x="154" y="198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="Client" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Client.java" binary="false">    
+    <position height="-1" width="-1" x="1140" y="257"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="Client.NameFieldListener" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Client.java" binary="false">    
+    <position height="-1" width="-1" x="924" y="485"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="Client.TextFieldListener" 
+    project="Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer" 
+    file="/Seungwoo_KyleAlmryde_VikrantSinghal_ChatServer/src/Client.java" binary="false">    
+    <position height="-1" width="-1" x="1158" y="738"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <nesting id="8">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <dependency id="9">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <nesting id="10">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <association id="11">    
+    <bendpoint x="1061" y="438"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="12" name="textListener"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="14">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <dependency id="15">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <nesting id="16">    
+    <bendpoint x="1082" y="438"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

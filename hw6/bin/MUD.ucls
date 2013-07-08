@@ -1,0 +1,278 @@
+<class-diagram version="1.0.11" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="Room" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Room.java" binary="false">    
+    <position height="332" width="177" x="399" y="48"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="Account" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Account.java" binary="false">    
+    <position height="332" width="146" x="597" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="AccountCollection" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/AccountCollection.java" binary="false">    
+    <position height="145" width="199" x="377" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="Client.IncomingReader" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Client.java" 
+    binary="false">    
+    <position height="94" width="136" x="637" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="Weapon" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Weapon.java" binary="false">    
+    <position height="111" width="161" x="1027" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="Client" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Client.java" binary="false">    
+    <position height="366" width="253" x="637" y="48"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="ChatClient.ButtonListener" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/ChatClient.java" binary="false">    
+    <position height="94" width="213" x="1454" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="MOB" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/MOB.java" binary="false">    
+    <position height="196" width="145" x="1043" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="Client.ButtonListener" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Client.java" 
+    binary="false">    
+    <position height="94" width="213" x="813" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" corner="BOTTOM_RIGHT" language="java" name="Server" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Server.java" binary="false">    
+    <position height="196" width="265" x="1537" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="ChatClient.IncomingReader" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/ChatClient.java" binary="false">    
+    <position height="94" width="136" x="1707" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="Warrior" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Warrior.java" 
+    binary="false">    
+    <position height="281" width="168" x="819" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="Character" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Character.java" 
+    binary="false">    
+    <position height="196" width="122" x="1066" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="ChatClient" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/ChatClient.java" binary="false">    
+    <position height="349" width="253" x="1454" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="ClientThreadConnection" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/ClientThreadConnection.java" binary="false">    
+    <position height="179" width="242" x="1537" y="48"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="Item" project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/Item.java" binary="false">    
+    <position height="213" width="154" x="1228" y="690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" corner="BOTTOM_RIGHT" language="java" name="HealthPotion" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/HealthPotion.java" binary="false">    
+    <position height="111" width="186" x="1228" y="1079"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="ItemInventory" 
+    project="AlphaSuperAwesomeCoolDynamiteWolfSquadron" 
+    file="/AlphaSuperAwesomeCoolDynamiteWolfSquadron/ItemInventory.java" binary="false">    
+    <position height="111" width="227" x="1228" y="454"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="19">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="20" name="myCharacter"/>      
+      <multiplicity id="21" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="22">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="23" name="inventory"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <bendpoint x="951" y="690"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="27" name="clients"/>      
+      <multiplicity id="28" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <nesting id="30">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <association id="32">    
+    <bendpoint x="606" y="454"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="33" name="account"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="35">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="36">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="37" name="accountCollection"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="40" name="user"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="43" name="inventory"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="46" name="user"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="49" name="server"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="51">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="52">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="53" name="accountCollection"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
